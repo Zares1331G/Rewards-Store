@@ -1,0 +1,2 @@
+(this["webpackJsonpstore-leal-pelaez-david"]=this["webpackJsonpstore-leal-pelaez-david"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(0),s=n.n(r),a=n(3),c=n.n(a),d=n(1);function o(){return Object(d.jsx)("div",{children:"Estamos dentro!"})}c.a.render(Object(d.jsx)(s.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.d39b10cc.chunk.js.map
