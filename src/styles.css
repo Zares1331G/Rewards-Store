@@ -1,8 +1,16 @@
-.container__jumbotron{
+.container__jumbotron {
+    position: relative;
     overflow: hidden;
     height: 415px;
 }
 
-.jumbotron__text{
-    position:absolute;
+.jumbotron__text {
+    position: absolute;
+    height: 80px;
+    width: 314px;
+    left: 132px;
+    top: 284px;
+    font-size: 64px;
+    color: #FFFFFF;
+    font-weight: 700;
 }
