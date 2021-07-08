@@ -1,0 +1,8 @@
+.container__jumbotron{
+    overflow: hidden;
+    height: 415px;
+}
+
+.jumbotron__text{
+    position:absolute;
+}
